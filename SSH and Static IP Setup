@@ -1,0 +1,153 @@
+# Guide: SSH and Static IP Setup for UTM ARM64 VMs (Ubuntu Server & Rocky Linux)
+
+This guide walks you through setting up SSH access and configuring static IP addresses on two ARM64 virtual machines (VMs) running on UTM on Apple Silicon: Ubuntu Server and Rocky Linux Server.
+
+---
+
+## Part 1: Configure Networking in UTM
+
+Ensure each VM has a network device (e.g., `virtio-net`) and that the networking is set to either:
+
+* **Shared (User Mode)** — simpler but IPs may change.
+* **Bridged (Recommended)** — allows easier static IP management.
+
+---
+
+## Part 2: Ubuntu Server ARM64 — Enable SSH and Set Static IP
+
+### Step 1: Install OpenSSH Server
+
+```bash
+sudo apt update
+sudo apt install openssh-server
+sudo systemctl enable --now ssh
+```
+
+### Step 2: Set Static IP (Using Netplan)
+
+1. Find your interface name:
+
+```bash
+ip a
+```
+
+2. Edit Netplan config:
+
+```bash
+sudo nano /etc/netplan/00-installer-config.yaml
+```
+
+3. Replace contents (update `ens3` and IPs as needed):
+
+```yaml
+network:
+  version: 2
+  ethernets:
+    ens3:
+      dhcp4: no
+      addresses:
+        - 192.168.64.10/24
+      nameservers:
+        addresses: [8.8.8.8, 1.1.1.1]
+      routes:
+        - to: 0.0.0.0/0
+          via: 192.168.64.1
+```
+
+4. Fix permissions:
+
+```bash
+sudo chmod 600 /etc/netplan/00-installer-config.yaml
+```
+
+5. Apply configuration:
+
+```bash
+sudo netplan apply
+```
+
+6. Test:
+
+```bash
+ip a
+ping google.com
+```
+
+---
+
+## Part 3: Rocky Linux Server ARM64 — Enable SSH and Set Static IP
+
+### Step 1: Install OpenSSH Server
+
+```bash
+sudo dnf install openssh-server
+sudo systemctl enable --now sshd
+```
+
+### Step 2: Set Static IP (Using nmcli)
+
+1. Find your interface name:
+
+```bash
+nmcli device
+```
+
+2. Configure static IP (replace `ens3` and IPs as needed):
+
+```bash
+sudo nmcli con mod ens3 ipv4.addresses 192.168.64.11/24
+sudo nmcli con mod ens3 ipv4.gateway 192.168.64.1
+sudo nmcli con mod ens3 ipv4.dns "8.8.8.8 1.1.1.1"
+sudo nmcli con mod ens3 ipv4.method manual
+```
+
+3. Restart the connection:
+
+```bash
+sudo nmcli con down ens3 && sudo nmcli con up ens3
+```
+
+4. Test:
+
+```bash
+ip a
+ping google.com
+```
+
+---
+
+## Part 4: SSH Access from macOS (iTerm)
+
+From your Mac terminal, connect using:
+
+```bash
+ssh username@192.168.64.10  # Ubuntu
+ssh username@192.168.64.11  # Rocky
+```
+
+### Optional: SSH Config File for Easy Access
+
+Edit `~/.ssh/config` on your Mac:
+
+```ini
+Host ubuntu
+  HostName 192.168.64.10
+  User ubuntu
+
+Host rocky
+  HostName 192.168.64.11
+  User rocky
+```
+
+Then use:
+
+```bash
+ssh ubuntu
+ssh rocky
+```
+
+---
+
+## Done!
+
+You now have two ARM64 Linux VMs with SSH access and static IPs configured, accessible from your Mac.
