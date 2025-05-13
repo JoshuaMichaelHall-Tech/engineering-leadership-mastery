@@ -41,6 +41,13 @@ This repository follows a mastery-based learning approach:
   - [Templates](./resources/templates/): Reusable configuration templates
   - [Scripts](./resources/scripts/): Utility scripts for automation
 
+## Learning and Career Resources
+
+- **[Learning Roadmap](./learning-roadmap.md)**: Comprehensive progression of skills and knowledge areas
+- **[Career Learning Approach](./career-learning-plan.md)**: General approach to DevOps/SRE skill development
+- **[Certification Path](./certification-path.md)**: Strategic certification roadmap
+- **[Professional Networking](./professional-networking.md)**: Networking strategy for DevOps professionals
+
 ## Skills Focus
 
 - **Infrastructure as Code (IaC)**: Terraform, AWS CloudFormation
