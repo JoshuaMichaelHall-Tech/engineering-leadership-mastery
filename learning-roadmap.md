@@ -213,7 +213,7 @@ Each article requires these tasks to be added to the weekly checklist and dashbo
 - **Networking (7.5 hrs)**
   - [ ] Connect with 25-30 AWS network specialists (2.5 hrs)
   - [ ] Engage with 3-5 posts in AWS networking groups (1 hr)
-  - [ ] Install Clay browser extension and set up data enrichment (1 hr)
+  - [ ] Install LinkedIn browser extension and set up data enrichment (1 hr)
   - [ ] Create email templates for networking outreach (1.5 hrs)
   - [ ] Follow up with informational interview contact (1.5 hrs)
 
@@ -237,7 +237,7 @@ Each article requires these tasks to be added to the weekly checklist and dashbo
 
 - **Networking (7.5 hrs)**
   - [ ] Connect with 25-30 cloud security specialists (2.5 hrs)
-  - [ ] Set up "New Connection Follow-up" workflow in Clay (1.5 hrs)
+  - [ ] Set up "New Connection Follow-up" workflow in LinkedIn (1.5 hrs)
   - [ ] Attend first virtual AWS security meetup (2 hrs)
 
 - **Content Creation (5 hrs)**
@@ -260,7 +260,7 @@ Each article requires these tasks to be added to the weekly checklist and dashbo
 
 - **Networking (7.5 hrs)**
   - [ ] Connect with 25-30 AWS storage specialists (2.5 hrs)
-  - [ ] Create "Periodic Check-in" automation in Clay (1.5 hrs)
+  - [ ] Create "Periodic Check-in" automation in LinkedIn (1.5 hrs)
   - [ ] Attend second virtual AWS meetup (2 hrs)
 
 - **Content Creation (5 hrs)**
@@ -308,7 +308,7 @@ Each article requires these tasks to be added to the weekly checklist and dashbo
 
 - **Networking (7.5 hrs)**
   - [ ] Connect with 25-30 security automation specialists (2.5 hrs)
-  - [ ] Set up weekly networking metrics report in Clay (1.5 hrs)
+  - [ ] Set up weekly networking metrics report in LinkedIn (1.5 hrs)
   - [ ] Follow up with second informational interview contact (1.5 hrs)
   - [ ] Attend third virtual AWS/Terraform meetup (2 hrs)
 
@@ -354,7 +354,7 @@ Each article requires these tasks to be added to the weekly checklist and dashbo
 
 - **Networking (7.5 hrs)**
   - [ ] Connect with 25-30 CI/CD specialists (2.5 hrs)
-  - [ ] Conduct connection quality assessment in Clay (1.5 hrs)
+  - [ ] Conduct connection quality assessment in LinkedIn (1.5 hrs)
   - [ ] Follow up with third informational interview contact (1.5 hrs)
   - [ ] Attend second local DevOps meetup (2 hrs)
 
@@ -403,7 +403,7 @@ Each article requires these tasks to be added to the weekly checklist and dashbo
 
 - **Networking (7.5 hrs)**
   - [ ] Connect with 25-30 database security specialists (2.5 hrs)
-  - [ ] Implement scoring system for high-value connections in Clay (1.5 hrs)
+  - [ ] Implement scoring system for high-value connections in LinkedIn (1.5 hrs)
   - [ ] Follow up with fourth informational interview contact (1.5 hrs)
   - [ ] Attend sixth virtual AWS database meetup (2 hrs)
 
@@ -427,7 +427,7 @@ Each article requires these tasks to be added to the weekly checklist and dashbo
 
 - **Networking (7.5 hrs)**
   - [ ] Connect with 25-30 AWS certified professionals (2.5 hrs)
-  - [ ] Create nurture workflows for different contact tiers in Clay (1.5 hrs)
+  - [ ] Create nurture workflows for different contact tiers in LinkedIn (1.5 hrs)
   - [ ] Attend seventh virtual AWS certification meetup (2 hrs)
   - [ ] Schedule fifth informational interview (1.5 hrs)
 
@@ -451,7 +451,7 @@ Each article requires these tasks to be added to the weekly checklist and dashbo
 
 - **Networking (7.5 hrs)**
   - [ ] Connect with 25-30 compliance automation specialists (2.5 hrs)
-  - [ ] Create custom reports for certification achievements in Clay (1.5 hrs)
+  - [ ] Create custom reports for certification achievements in LinkedIn (1.5 hrs)
   - [ ] Follow up with fifth informational interview contact (1.5 hrs)
   - [ ] Attend third local DevOps meetup (2 hrs)
 
@@ -477,7 +477,7 @@ Each article requires these tasks to be added to the weekly checklist and dashbo
 
 - **Networking (7.5 hrs)**
   - [ ] Connect with 25-30 Terraform certified professionals (2.5 hrs)
-  - [ ] Connect calendar for meeting tracking in Clay (1.5 hrs)
+  - [ ] Connect calendar for meeting tracking in LinkedIn (1.5 hrs)
   - [ ] Attend eighth virtual Terraform certification meetup (2 hrs)
   - [ ] Schedule sixth informational interview (1.5 hrs)
 
@@ -501,7 +501,7 @@ Each article requires these tasks to be added to the weekly checklist and dashbo
 
 - **Networking (7.5 hrs)**
   - [ ] Connect with 25-30 CI/CD specialists (2.5 hrs)
-  - [ ] Set up document tracking for resume/portfolio sharing in Clay (1.5 hrs)
+  - [ ] Set up document tracking for resume/portfolio sharing in LinkedIn (1.5 hrs)
   - [ ] Follow up with sixth informational interview contact (1.5 hrs)
   - [ ] Attend ninth virtual CI/CD meetup (2 hrs)
 
@@ -525,7 +525,7 @@ Each article requires these tasks to be added to the weekly checklist and dashbo
 
 - **Networking (7.5 hrs)**
   - [ ] Connect with 25-30 security automation professionals (2.5 hrs)
-  - [ ] Configure mobile app for efficient on-the-go networking in Clay (1.5 hrs)
+  - [ ] Configure mobile app for efficient on-the-go networking in LinkedIn (1.5 hrs)
   - [ ] Attend tenth virtual security automation meetup (2 hrs)
   - [ ] Schedule seventh informational interview (1.5 hrs)
 
@@ -548,7 +548,7 @@ Each article requires these tasks to be added to the weekly checklist and dashbo
 
 - **Networking (7.5 hrs)**
   - [ ] Connect with 25-30 hiring managers in financial services DevOps (2.5 hrs)
-  - [ ] Create custom dashboards for job search progress in Clay (1.5 hrs)
+  - [ ] Create custom dashboards for job search progress in LinkedIn (1.5 hrs)
   - [ ] Follow up with seventh informational interview contact (1.5 hrs)
   - [ ] Attend fourth local DevOps meetup (2 hrs)
 
@@ -576,7 +576,7 @@ Each article requires these tasks to be added to the weekly checklist and dashbo
 
 - **Networking (7.5 hrs)**
   - [ ] Connect with 25-30 container specialists (2.5 hrs)
-  - [ ] Set up deal pipeline for job applications in Clay (1.5 hrs)
+  - [ ] Set up deal pipeline for job applications in LinkedIn (1.5 hrs)
   - [ ] Attend eleventh virtual Docker/container meetup (2 hrs)
   - [ ] Schedule eighth informational interview (1.5 hrs)
 
