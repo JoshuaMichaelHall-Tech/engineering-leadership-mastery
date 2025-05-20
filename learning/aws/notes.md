@@ -75,8 +75,8 @@ We will create new AWS accounts for this course.
 General(Management) AWS account
   Account for logging in
   Log in with account root user
-  Secure with MFA
-  Configure a budget
+  *Secure with MFA*
+  *Configure a budget*
   Add IAMADMIN user with admin permissions - used to interact with account
 Production
   Root and IAMADMIN user
@@ -85,9 +85,20 @@ Create new AWS structure for every course!
 use email aliases for aws accounts
 
 once account has been created:
-  grant IAM user and role access to billing information
-  confirm that region is either global or nearby
-  enable MFA
+  *grant IAM user and role access to billing information*
+  *confirm that region is either global or nearby*
+  *enable MFA*
     factors - different pieces of evidence to prove identity
         Knowledge, Possession, Inherent (fingerprint), Location
     virtual mfa for each user for each account
+
+### Controlling Costs
+Tools for managing costs:
+  Login as root
+  Upper right dropdown
+  Bills on left
+  *Billing Preferences: check deliviry and 2 alerts*
+  *Create/set a budget*
+    *Add email for alerts*
+
+
