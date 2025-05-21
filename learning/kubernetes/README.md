@@ -1,4 +1,4 @@
-# Kubernetes Learning Path
+# Kubernetes Learning Path for Financial Services
 
 ## Overview
 This directory documents my journey learning Kubernetes with a focus on container orchestration for DevOps/SRE roles in financial services environments.
@@ -11,6 +11,7 @@ This learning path follows a structured approach:
 - Build foundational skills with hands-on practice
 - Progress to advanced topics and financial services patterns
 - Document implementation patterns and best practices
+- Demonstrate business impact and ROI metrics
 
 ## Kubernetes Topics Covered
 
@@ -24,7 +25,7 @@ This learning path follows a structured approach:
 ### Security & Access Control
 - **Authentication**: Service accounts, OIDC integration
 - **Authorization**: RBAC configuration for financial services
-- **Pod Security**: Security contexts, pod security policies
+- **Pod Security**: Security contexts, pod security standards
 - **Network Security**: Network policies, service mesh integration
 - **Supply Chain Security**: Image scanning, admission controllers
 
@@ -41,6 +42,18 @@ This learning path follows a structured approach:
 - **Compliance Controls**: Implementing regulatory requirements
 - **Security Hardening**: Financial-grade security implementations
 - **Performance Optimization**: Tuning for financial workloads
+- **Scalability**: Handling peak trading volumes
+- **Audit Logging**: Comprehensive audit trails for compliance
+
+## Business Impact
+This learning path emphasizes demonstrating business value through:
+- **Operational Efficiency**: Automated deployment and management
+- **Release Velocity**: Faster, more reliable application deployments
+- **Resilience**: Improved uptime and reduced MTTR
+- **Resource Utilization**: Optimized cluster usage and cost savings
+- **Security Posture**: Quantifiable security improvements
+- **Compliance Automation**: Reduced audit preparation time
+- **Developer Productivity**: Standardized deployment patterns
 
 ## Learning Resources
 - **Courses**: KodeKloud CKA, CKS courses
@@ -51,6 +64,9 @@ This learning path follows a structured approach:
 ## Certification Path
 - [Certified Kubernetes Administrator (CKA)](../../certifications/cka)
 - Certified Kubernetes Security Specialist (CKS) (future)
+
+## Implementation Plan
+The detailed implementation plan is available in the [learning-plan.md](learning-plan.md) file, which outlines the day-by-day learning path.
 
 ## Study Notes
 Detailed notes on key Kubernetes concepts are organized in topic-specific directories.

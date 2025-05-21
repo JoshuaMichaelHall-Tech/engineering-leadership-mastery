@@ -1,4 +1,4 @@
-# AWS Learning Path
+# AWS Learning Path for Financial Services
 
 ## Overview
 This directory documents my journey learning Amazon Web Services (AWS) with a focus on DevOps/SRE roles in financial services environments.
@@ -11,6 +11,7 @@ This learning path follows a structured approach:
 - Emphasize security and compliance for financial workloads
 - Build practical, real-world implementations
 - Document architecture patterns and best practices
+- Demonstrate business value and ROI metrics
 
 ## Core AWS Services Covered
 
@@ -53,6 +54,7 @@ This learning path follows a structured approach:
 ## Certification Path
 - [AWS Solutions Architect Associate](../../certifications/aws-saa)
 - AWS DevOps Engineer Professional (future)
+- AWS Security Specialty (future)
 
 ## Financial Services Focus
 Special focus areas for financial services:
@@ -61,6 +63,19 @@ Special focus areas for financial services:
 - **High Availability**: Designing for 99.99%+ uptime
 - **Disaster Recovery**: Financial-grade recovery strategies
 - **Cost Optimization**: Efficient resource utilization
+- **Performance**: Optimizing for low-latency transactions
+- **Scalability**: Handling peak trading and end-of-month processing
+
+## Business Impact
+This learning path emphasizes demonstrating business value through:
+- **Cost Reduction**: Cloud optimization techniques
+- **Security Posture**: Quantifiable improvement metrics
+- **Operational Efficiency**: Automation and reduced MTTR
+- **Compliance Automation**: Reduced audit preparation time
+- **Innovation Enablement**: Faster time-to-market for new products
+
+## Implementation Plan
+The detailed implementation plan is available in the [learning-plan.md](learning-plan.md) file, which outlines the day-by-day learning path.
 
 ## Study Notes
 Detailed notes on key AWS services and concepts are organized in service-specific directories.
