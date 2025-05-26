@@ -1,6 +1,15 @@
 # DevOps/SRE Mastery for Financial Services
 
-A repository documenting my journey to master DevOps and Site Reliability Engineering skills, with a strategic focus on AWS specialization, Infrastructure as Code, and container orchestration for financial services environments.
+A repository documenting my systematic journey to DevOps expertise through AWS, Security+, and Terraform certifications. Targeting DevOps Engineer roles by December 2025 with specialization in financial services infrastructure automation.
+
+## Current Focus & Timeline
+
+**Certification Path (May - November 2025)**:
+- AWS Solutions Architect Associate - August 2025
+- CompTIA Security+ SY0-701 Renewal - October 2025
+- HashiCorp Terraform Associate - November 2025
+
+**Available for DevOps Engineer roles: December 2025**
 
 ## Strategic Philosophy
 
@@ -8,10 +17,10 @@ A repository documenting my journey to master DevOps and Site Reliability Engine
 
 This repository implements a specialized, high-ROI approach to DevOps/SRE mastery:
 - Strategic specialization in AWS for financial services rather than multi-cloud
-- Depth over breadth in technical skills with measurable business impact
-- Security and compliance-first approach for regulated environments
+- Security-first approach with CompTIA Security+ certification
+- Infrastructure as Code mastery through Terraform
 - Project implementations that demonstrate quantifiable business value
-- Clear progression path toward principal/staff engineer level expertise
+- Clear timeline to job readiness with current certifications
 
 ## Repository Purpose
 
