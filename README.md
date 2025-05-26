@@ -4,7 +4,7 @@ A repository documenting my systematic journey to DevOps expertise through AWS, 
 
 ## Current Focus & Timeline
 
-**Certification Path (May - November 2025)**:
+**Certification Path (June - November 2025)**:
 - AWS Solutions Architect Associate - August 2025
 - CompTIA Security+ SY0-701 Renewal - October 2025
 - HashiCorp Terraform Associate - November 2025

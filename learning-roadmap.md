@@ -1,13 +1,13 @@
 # DevOps Career Learning Path
 
-This comprehensive learning path outlines the specific skills, projects, and milestones required to progress from entry to principal/staff level in DevOps for financial services, aligned with the $250K+ career roadmap.
+This comprehensive learning path outlines the specific skills, projects, and milestones required to progress from entry to principal/staff level in DevOps for financial services.
 
 ## Career Progression Framework
 
-- **Years 0-2**: Mid-Level DevOps Engineer ($120K-$160K)
-- **Years 2-4**: Senior DevOps Engineer ($160K-$200K)
-- **Years 4-6**: Principal/Staff DevOps Engineer ($200K-$250K+)
-- **Years 6+**: Engineering Manager/Director ($250K-$350K+)
+- **Years 0-2**: Mid-Level DevOps Engineer
+- **Years 2-4**: Senior DevOps Engineer
+- **Years 4-6**: Principal/Staff DevOps Engineer
+- **Years 6+**: Engineering Leadership
 
 ## Phase 1: Foundation Building with Job-Ready Focus (Months 1-6)
 

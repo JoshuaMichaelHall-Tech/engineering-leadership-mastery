@@ -1,6 +1,6 @@
 # DevOps Learning Strategy for Financial Services
 
-This document outlines a comprehensive strategy for developing the expertise required to reach the top 1% in DevOps for financial services, aligned with the $250K+ career roadmap.
+This document outlines a comprehensive strategy for developing the expertise required to excel in DevOps for financial services, aligned with long-term career growth and technical leadership.
 
 ## Strategic Principles
 

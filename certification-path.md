@@ -1,17 +1,18 @@
 # Strategic Certification Path: Financial Services DevOps
 
-This document outlines a strategic certification roadmap focused on AWS, Terraform, and Kubernetes to build expertise required for premium DevOps roles in financial services environments, aligned with the $250K+ career path.
+This document outlines a strategic certification roadmap focused on AWS, Terraform, and Kubernetes to build expertise required for senior DevOps roles in financial services environments, aligned with long-term career growth.
 
 ## Certification Timeline
 
 | Certification | Timeline | Purpose |
 |---------------|----------|----------|
-| AWS Solutions Architect Associate | Month 3-4 | Critical foundation for AWS expertise |
-| Terraform Associate | Month 6 | Infrastructure as code mastery |
+| AWS Solutions Architect Associate | Month 3 (August 2025) | Critical foundation for AWS expertise |
+| CompTIA Security+ SY0-701 Renewal | Month 5 (October 2025) | Security foundation for financial services |
+| Terraform Associate | Month 6 (November 2025) | Infrastructure as code mastery |
 | AWS DevOps Professional | Month 13-15 | Advanced AWS DevOps expertise |
 | AWS Security Specialty | Month 18-24 | Financial services compliance specialization |
 | Certified Kubernetes Administrator | Month 24-30 | Container orchestration mastery |
-| AWS Solutions Architect Professional | Month 30-36 | Premium certification for principal roles ($220K+) |
+| AWS Solutions Architect Professional | Month 30-36 | Premium certification for principal roles |
 | Kubernetes Security Specialist | Month 36-42 | Advanced security specialization |
 | Strategic Leadership Certification | Year 4 | Business and leadership skills for top-tier roles |
 | Financial Services Risk/Compliance | Year 5 | Strategic positioning for leadership roles |
@@ -32,7 +33,21 @@ This document outlines a strategic certification roadmap focused on AWS, Terrafo
 - Critical entry point for all AWS certifications
 - Demonstrates architecture expertise beyond just implementation
 - Focus areas for financial services: security, multi-account design, governance
-- Common requirement in job listings ($120K-$160K range)
+- Common requirement in job listings for cloud engineering roles
+
+#### CompTIA Security+ SY0-701 Renewal
+
+**Business Value**:
+- Industry-recognized security certification for financial services
+- Demonstrates current security knowledge and best practices
+- Validates understanding of compliance and risk management
+- Essential for security-focused DevOps positions
+
+**Strategic Positioning**:
+- Renewal ensures currency with latest security standards
+- Complements AWS certifications with vendor-neutral security expertise
+- Focus areas: risk management, compliance, incident response
+- Required for many financial services positions
 
 #### HashiCorp Terraform Associate
 
@@ -46,7 +61,7 @@ This document outlines a strategic certification roadmap focused on AWS, Terrafo
 - Differentiator from AWS-only certified professionals
 - Demonstrates a commitment to infrastructure automation
 - Focus areas: secure state management, module development, validation
-- High-demand skill that combines well with AWS ($130K-$170K range)
+- High-demand skill that combines well with AWS for automation roles
 
 ### Specialization Phase (Month 7-24)
 
@@ -62,7 +77,7 @@ This document outlines a strategic certification roadmap focused on AWS, Terrafo
 - Premium AWS certification with rigorous technical requirements
 - Demonstrates both development and operations expertise
 - Focus areas: CI/CD automation, monitoring, security integration
-- Strong credential for senior roles ($150K-$200K range)
+- Strong credential for senior DevOps engineering roles
 
 #### AWS Security Specialty
 
@@ -76,7 +91,7 @@ This document outlines a strategic certification roadmap focused on AWS, Terrafo
 - High-value security specialization for regulated industries
 - Perfect complement to DevOps Professional certification
 - Focus areas: compliance automation, security architecture, auditing
-- Positions for security-focused DevOps roles ($160K-$210K range)
+- Positions for security-focused DevOps leadership roles
 
 ### Advanced Phase (Month 25-48)
 
@@ -92,7 +107,7 @@ This document outlines a strategic certification roadmap focused on AWS, Terrafo
 - Expands expertise beyond cloud provider-specific services
 - Demonstrates portable skills for hybrid/multi-cloud environments
 - Focus areas: security, governance, compliance for containers
-- Opens platform engineering opportunities ($170K-$220K range)
+- Opens platform engineering and architecture opportunities
 
 #### AWS Solutions Architect Professional
 
@@ -106,7 +121,7 @@ This document outlines a strategic certification roadmap focused on AWS, Terrafo
 - Most prestigious AWS technical certification
 - Demonstrates enterprise architecture capabilities
 - Focus areas: complex system design, security, cost optimization
-- Strong credential for principal-level roles ($190K-$250K+ range)
+- Strong credential for principal and staff engineering roles
 
 #### Certified Kubernetes Security Specialist (CKS)
 
@@ -120,7 +135,7 @@ This document outlines a strategic certification roadmap focused on AWS, Terrafo
 - Elite security specialization for platform engineering
 - Demonstrates security-first approach to container orchestration
 - Focus areas: policy enforcement, secrets management, compliance
-- Positions for specialized security architect roles ($200K-$240K range)
+- Positions for specialized security architect roles
 
 ### Leadership Phase (Year 4-6)
 
@@ -136,7 +151,7 @@ This document outlines a strategic certification roadmap focused on AWS, Terrafo
 - Bridges gap between technical expertise and executive leadership
 - Differentiator for principal/staff engineer progression
 - Focus areas: strategic planning, cross-functional leadership, business alignment
-- Critical for engineering leadership roles ($220K-$280K range)
+- Critical for engineering leadership progression
 
 #### Financial Services Risk/Compliance Certification
 
@@ -150,7 +165,7 @@ This document outlines a strategic certification roadmap focused on AWS, Terrafo
 - Industry specialization for financial services leadership
 - Demonstrates regulatory expertise beyond technical capabilities
 - Focus areas: risk assessment, compliance frameworks, audit preparation
-- Opens doors to executive technology roles ($250K-$350K+ range)
+- Opens doors to executive technology leadership roles
 
 ## Financial Services Focus Areas
 
@@ -232,23 +247,23 @@ To maximize the value of each certification for financial services DevOps roles,
 
 5. **Practice Exams**: Use practice exams to identify knowledge gaps, but focus on practical application rather than just passing tests.
 
-## ROI Analysis
+## Investment Analysis
 
-| Certification | Cost | Time Investment | Salary Impact | ROI |
-|---------------|------|-----------------|---------------|-----|
-| AWS Solutions Architect Associate | $150 | 80-120 hours | +$10-20K | High |
-| Terraform Associate | $70 | 40-60 hours | +$5-15K | High |
-| AWS DevOps Professional | $150 | 100-160 hours | +$15-25K | Very High |
-| AWS Security Specialty | $300 | 120-180 hours | +$20-35K | Very High |
-| Certified Kubernetes Administrator | $375 | 100-160 hours | +$15-30K | High |
-| AWS Solutions Architect Professional | $300 | 150-200 hours | +$25-45K | Very High |
-| Certified Kubernetes Security Specialist | $375 | 100-160 hours | +$15-30K | High |
-| Strategic Leadership Certification | $1000-3000 | 100-200 hours | +$30-50K | High |
-| Financial Services Risk/Compliance | $1500-3500 | 100-200 hours | +$40-70K | Very High |
+| Certification | Time Investment | Career Impact | Strategic Value |
+|---------------|-----------------|---------------|------------------|
+| AWS Solutions Architect Associate | 80-120 hours | Mid-level cloud engineering roles | Foundation for AWS expertise |
+| CompTIA Security+ Renewal | 40-60 hours | Security-focused positions | Essential for financial services |
+| Terraform Associate | 40-60 hours | Infrastructure automation roles | Key differentiator |
+| AWS DevOps Professional | 100-160 hours | Senior DevOps positions | Advanced expertise validation |
+| AWS Security Specialty | 120-180 hours | Security leadership roles | Financial services specialization |
+| Certified Kubernetes Administrator | 100-160 hours | Platform engineering roles | Container orchestration mastery |
+| AWS Solutions Architect Professional | 150-200 hours | Principal/Staff positions | Elite technical credential |
+| Certified Kubernetes Security Specialist | 100-160 hours | Security architect roles | Advanced specialization |
+| Strategic Leadership Certification | 100-200 hours | Engineering leadership | Business alignment skills |
+| Financial Services Risk/Compliance | 100-200 hours | Executive technology roles | Industry specialization |
 
-Total Investment: ~$4,000-8,000 and 800-1,400 hours over 6 years
-Potential Salary Impact: +$175-320K
-ROI: 2,000-4,000%
+Total Time Investment: 800-1,400 hours over 5-6 years
+Career Progression: Entry-level → Principal/Staff Engineer → Technical Leadership
 
 ## Integration with Learning Roadmap
 
@@ -259,4 +274,4 @@ This certification path is designed to integrate with the overall [DevOps SRE Ca
 3. **Advanced Phase (Months 25-48)**: CKA and AWS Solutions Architect Professional
 4. **Leadership Phase (Years 4-6)**: Strategic Leadership and Risk/Compliance
 
-By following this strategically sequenced certification path, you'll build the credentials required for premium DevOps positions in financial services, positioned for principal/staff roles with $250K+ compensation.
+By following this strategically sequenced certification path, you'll build the credentials required for senior DevOps positions in financial services, positioned for principal/staff engineering roles and technical leadership.
