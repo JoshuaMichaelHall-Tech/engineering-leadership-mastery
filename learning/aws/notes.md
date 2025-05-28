@@ -1,157 +1,185 @@
-## Course: Cantrill AWS Certified Solutions Architect - Associate (SAA-CO3)
+# AWS Certified Solutions Architect - Associate (SAA-C03)
 
-### Example: Animals4Life
+## Course: Adrian Cantrill's AWS SAA-C03
 
-Animal Rescue and Awareness:
-Global, HQ in Brisbane, AU - 100 staff
-Call center, admin, IT, marketing, legal and Accounts
-~ 100 Remote workers across AU and Global
-  Animal care, activests, lobbyinsts
-  London, NY, Seattle
+### Case Study: Animals4Life
 
-Onprem Datacenter in Brisbane:
-AWS trial in SYD, badly
-Azure/GCP trials, badly
-Open to trying new things
+**Organization Overview:**
+- **Type:** Animal Rescue and Awareness (Global)
+- **HQ:** Brisbane, Australia (100 staff)
+- **Departments:** Call center, admin, IT, marketing, legal, accounts
+- **Remote Workers:** ~100 across AU and globally
+  - Animal care, activists, lobbyists
+  - Locations: London, New York, Seattle
 
-On-prem 192.168.10.0/24 Class C
-AWS Pilot 10.0.0.0/16 Class A
-Azure Pilot 172.31.0.0/16 Class B
+**Current Infrastructure:**
+- **On-premises:** Brisbane datacenter
+  - Network: 192.168.10.0/24 (Class C)
+- **Cloud Pilots (unsuccessful):**
+  - AWS Sydney: 10.0.0.0/16 (Class A)
+  - Azure: 172.31.0.0/16 (Class B)
+  - GCP: attempted
 
-Major offices in London, NY, Seattle consume services from Head Office
+**Field Worker Requirements:**
+- Hardware: Laptops with 3G/4G/Satellite connectivity
+- Services needed:
+  - Data upload/download
+  - Email access
+  - File access
+  - Chat & planning tools
+  - Research dataset access
 
-Field Workers use:
-  Laptops
-  3G, 4G, Satellite
-  Data u/I & d/I
-  Email, File Access
-  Chat & Planning
-  Research datasets
+**Current Problems:**
+- Legacy on-prem failing (must migrate within 18 months)
+- Failed cloud pilots (messy, expensive, no improvement)
+- Performance issues (downtime, latency)
+- No HA/scalability
+- Limited IT automation skills
+- High costs for global expansion
 
-Problems:
-  Legacy on-prem if failing, must move within 18 months
-  Should they move to cloud?
-  Pilots messy, expensive, no improvement.
-  Performance issues: downtime, distance
-  Lack of HA/scalability
-  IT skills struggle, little automation
-  Global expansion - costs for new infrastructure
+**Desired Outcomes:**
+- Fast, reliable performance
+- Quick regional deployment capability
+- Cost-effective and scalable
+- Business agility for rapid response
+- IoT and Big Data capabilities
+- Automation to reduce costs
 
-Ideal Outcomes:
-  Fast performance
-  Able to deploy quickly into new regions
-    Spin up and down quickly
-  Low cost and scalable
-  Agility
-    Leverage real world events, need rapid deployment
-  IOT, Big Data
-  Automation - low cost
+**Course Application:**
+- Learn to ask the right questions
+- Apply real-world scenarios to exam preparation
 
-Use in course:
-  Learn when and what questions to ask
-  Cert exam is based on real world issues
+## AWS Account Fundamentals
 
-### AWS Accounts
+### AWS Account Basics
 
-#### Creation
-A container for identities (users) and resources
-Require account name, unique email address, and credit card
-Unique email is tied to root user
-Initially, only 1 user, root user
-Root can't be restricted
-Resource use billed to credit card
+**What is an AWS Account?**
+- Container for identities (users) and resources
+- Requirements:
+  - Account name
+  - Unique email address
+  - Credit card for billing
 
-#### IAM
-Identity and Access Management
-IAM service is tied to a particular AWS account
-Users, Groups and Roles can be created and given full or limited permissions
+**Root User:**
+- Created automatically with account
+- Tied to the account's email address
+- Cannot be restricted (full permissions)
+- Best practice: Use sparingly, secure with MFA
 
-#### Security/Containerization
-Since each account is contained by default, bad actors who gain access can only do damage in this account.
-We will create new AWS accounts for this course.
+### Account Structure for Learning
 
-### Creating Accounts for Course
-General(Management) AWS account
-  Account for logging in
-  Log in with account root user
-  *Secure with MFA*
-  *Configure a budget*
-  Add IAMADMIN user with admin permissions - used to interact with account
-Production
-  Root and IAMADMIN user
-Create new AWS structure for every course!
+**Recommended Setup:**
+1. **Management Account**
+   - Primary login account
+   - Secure root user with MFA
+   - Configure billing alerts and budgets
+   - Create IAMADMIN user for daily operations
 
-use email aliases for aws accounts
+2. **Production Account**
+   - Separate account for production workloads
+   - Root user + IAMADMIN user
 
-once account has been created:
-  *grant IAM user and role access to billing information*
-  *confirm that region is either global or nearby*
-  *enable MFA*
-    factors - different pieces of evidence to prove identity
-        Knowledge, Possession, Inherent (fingerprint), Location
-    virtual mfa for each user for each account
+**Pro tip:** Use email aliases (e.g., user+aws-mgmt@email.com) for multiple accounts
 
-### Controlling Costs
-Tools for managing costs:
-  Login as root
-  Upper right dropdown
-  Bills on left
-  *Billing Preferences: check deliviry and 2 alerts*
-  *Create/set a budget*
-    *Add email for alerts*
+### Initial Account Configuration
 
-People, groups or apps need access.
-Principle of least access
-IAM is a globally resilient service, database, your own dedicated account
-Create IAM identities and grant permissions
-  Users (people or apps), groups (collection of related users), roles (AWS services or external access)
-Policies allow or deny access when attached to users, groups, or services
-IAM authentication -prove identity
-  ID Provider
-  Authenticate -prove id
-  authorize -allow access
-IAM
-  No Cost
-  Global Service/Resiliance
-  Allow/Deny its identities on its aws account
-  No direct control external accounts or users
-  Identity federation and mfa
-  IAM IDs start with no permissions
+**Essential Steps:**
+1. **Enable MFA on root user**
+   - Authentication factors: Knowledge, Possession, Inherent, Location
+   - Use virtual MFA for each user/account
 
-Create IAMADMIN
-  Create Alias
-  Create User
-    Set Permissions
-    Set Password
-    Set MFA
-    Max 1 username and 1 password per iamuser
+2. **Grant IAM access to billing**
+   - Allow IAM users to view billing information
 
-Authentication via CLI
-  IAM Access Keys
-    iamuser can have 2 access keys
-      can be created, deleted, inactivated or activated
-    Have 2 Parts
-      Access Key ID
-      Secret Access Key
-    Only used for users, not roles
-    Create
-      Login
-      Security Credentials
-      Create Key
-        Select purpose
-        Add descriptive tag
-        Can activate or deactivate
-        Can add second
-    Install AWS Command Line
-      curl "https://awscli.amazonaws.com/AWSCLIV2.pkg" -o "AWSCLIV2.pkg"
-      sudo installer -pkg AWSCLIV2.pkg -target /
-    Configure AWS Command Line
-      > aws configure --profile <name>
-      enter access id and secret
-      enter region us-east-1
-      default output (enter)
-      test:
-        aws s3 ls --profile <name> 
-          passes if no error message
-      
-      
+3. **Set appropriate region**
+   - Choose closest region for best performance
+
+4. **Configure cost controls**
+   - Access: Root user → Account dropdown → Billing
+   - Enable billing preferences and alerts
+   - Create budget with email notifications
+
+## Identity and Access Management (IAM)
+
+### IAM Overview
+
+**Key Characteristics:**
+- **Cost:** Free service
+- **Scope:** Global (not region-specific)
+- **Resilience:** Globally resilient service
+- **Purpose:** Manage identities and permissions within an AWS account
+
+**Core Principles:**
+- Principle of least privilege
+- All identities start with no permissions
+- Explicit allow/deny model
+
+### IAM Components
+
+1. **Users**
+   - Represent people or applications
+   - One username, one password per user
+   - Can have up to 2 access keys
+
+2. **Groups**
+   - Collections of related users
+   - Simplify permission management
+
+3. **Roles**
+   - For AWS services or external access
+   - Temporary credentials
+
+4. **Policies**
+   - JSON documents defining permissions
+   - Can be attached to users, groups, or roles
+
+### Creating an Admin User
+
+**Steps to create IAMADMIN:**
+1. Create account alias for easier login
+2. Create new IAM user
+3. Attach AdministratorAccess policy
+4. Set strong password
+5. Enable MFA
+6. Use this user instead of root for daily tasks
+
+### CLI Authentication
+
+**IAM Access Keys:**
+- **Components:**
+  - Access Key ID (public)
+  - Secret Access Key (private)
+- **Limitations:**
+  - Maximum 2 per user
+  - Only for users (not roles)
+  - Can be activated/deactivated
+
+**AWS CLI Setup:**
+
+1. **Install AWS CLI v2 (macOS):**
+   ```bash
+   curl "https://awscli.amazonaws.com/AWSCLIV2.pkg" -o "AWSCLIV2.pkg"
+   sudo installer -pkg AWSCLIV2.pkg -target /
+   ```
+
+2. **Configure profile:**
+   ```bash
+   aws configure --profile <profile-name>
+   # Enter:
+   # - Access Key ID
+   # - Secret Access Key
+   # - Default region (e.g., us-east-1)
+   # - Default output format (press Enter for default)
+   ```
+
+3. **Test configuration:**
+   ```bash
+   aws s3 ls --profile <profile-name>
+   # Success = no error message
+   ```
+
+**Access Key Management:**
+- Login → Security Credentials → Create Access Key
+- Select purpose and add descriptive tag
+- Store securely (shown only once)
+- Rotate regularly for security
