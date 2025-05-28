@@ -43,3 +43,7 @@ ENV/
 *.log
 *.tmp
 tmp/
+
+# Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
