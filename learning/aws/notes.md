@@ -1,4 +1,3 @@
-
 ## Course: Cantrill AWS Certified Solutions Architect - Associate (SAA-CO3)
 
 ### Example: Animals4Life
@@ -101,4 +100,58 @@ Tools for managing costs:
   *Create/set a budget*
     *Add email for alerts*
 
+People, groups or apps need access.
+Principle of least access
+IAM is a globally resilient service, database, your own dedicated account
+Create IAM identities and grant permissions
+  Users (people or apps), groups (collection of related users), roles (AWS services or external access)
+Policies allow or deny access when attached to users, groups, or services
+IAM authentication -prove identity
+  ID Provider
+  Authenticate -prove id
+  authorize -allow access
+IAM
+  No Cost
+  Global Service/Resiliance
+  Allow/Deny its identities on its aws account
+  No direct control external accounts or users
+  Identity federation and mfa
+  IAM IDs start with no permissions
 
+Create IAMADMIN
+  Create Alias
+  Create User
+    Set Permissions
+    Set Password
+    Set MFA
+    Max 1 username and 1 password per iamuser
+
+Authentication via CLI
+  IAM Access Keys
+    iamuser can have 2 access keys
+      can be created, deleted, inactivated or activated
+    Have 2 Parts
+      Access Key ID
+      Secret Access Key
+    Only used for users, not roles
+    Create
+      Login
+      Security Credentials
+      Create Key
+        Select purpose
+        Add descriptive tag
+        Can activate or deactivate
+        Can add second
+    Install AWS Command Line
+      curl "https://awscli.amazonaws.com/AWSCLIV2.pkg" -o "AWSCLIV2.pkg"
+      sudo installer -pkg AWSCLIV2.pkg -target /
+    Configure AWS Command Line
+      > aws configure --profile <name>
+      enter access id and secret
+      enter region us-east-1
+      default output (enter)
+      test:
+        aws s3 ls --profile <name> 
+          passes if no error message
+      
+      
