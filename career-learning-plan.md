@@ -218,7 +218,7 @@ Combine different learning resources for comprehensive understanding:
 
 ## Executive Skills Development
 
-To reach premium compensation levels ($250K+), technical skills must be complemented by executive capabilities:
+To reach premium compensation levels, technical skills must be complemented by executive capabilities:
 
 1. **Business Value Measurement**: Quantifying the ROI of technical initiatives
 2. **Executive Communication**: Translating technical concepts for leadership audiences
@@ -228,7 +228,7 @@ To reach premium compensation levels ($250K+), technical skills must be compleme
 
 ## Top 1% Career Acceleration
 
-To reach top 1% DevOps compensation ($250K+), supplement technical learning with these parallel tracks:
+To reach top 1% DevOps compensation, supplement technical learning with these parallel tracks:
 
 ### 1. Business Impact Skills
 
@@ -366,6 +366,6 @@ DevOps/SRE learning never ends. Implement these practices for continuous improve
 
 ## Conclusion
 
-This comprehensive learning strategy provides a focused approach to developing the technical expertise, specialized knowledge, and executive capabilities required to reach principal/staff level positions in DevOps for financial services. By focusing deeply on AWS, security, and compliance while developing business impact skills, you can accelerate your path to premium compensation levels of $250K+ within 5-6 years.
+This comprehensive learning strategy provides a focused approach to developing the technical expertise, specialized knowledge, and executive capabilities required to reach principal/staff level positions in DevOps for financial services. By focusing deeply on AWS, security, and compliance while developing business impact skills, you can accelerate your path to premium compensation levels within 5-6 years.
 
 The key differentiator between mid-level DevOps engineers and those commanding premium compensation is the ability to connect technical excellence with quantifiable business impact and strategic leadership.

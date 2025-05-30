@@ -1,4 +1,4 @@
-# Sequential DevOps Career Learning Path: 42-Week Program to $250K+
+# Sequential DevOps Career Learning Path: 42-Week Program to Senior Level
 
 This comprehensive **sequential learning path** outlines the specific skills, projects, and milestones required to progress from entry to principal/staff level in DevOps for financial services. Unlike traditional concurrent learning approaches, this methodology focuses on **one primary task at a time** for maximum skill retention and business value demonstration.
 
@@ -12,10 +12,10 @@ This comprehensive **sequential learning path** outlines the specific skills, pr
 
 ## Career Progression Framework
 
-- **Weeks 1-30**: Foundation Building → Mid-Level DevOps Engineer ($140K-$160K)
-- **Weeks 31-42**: Job Search & Advanced Skills → Senior DevOps Engineer ($160K-$200K)
-- **Year 2-3**: Senior Role Mastery → Lead/Principal DevOps Engineer ($200K-$280K)  
-- **Year 4-6**: Principal/Staff Engineering → Top-Tier Compensation ($280K-$500K)
+- **Weeks 1-30**: Foundation Building → Mid-Level DevOps Engineer
+- **Weeks 31-42**: Job Search & Advanced Skills → Senior DevOps Engineer
+- **Year 2-3**: Senior Role Mastery → Lead/Principal DevOps Engineer
+- **Year 4-6**: Principal/Staff Engineering → Top-Tier Compensation
 
 ## Phase 1: Foundation and Sequential Skill Building (Weeks 1-30)
 
@@ -534,7 +534,7 @@ This phase focuses on mastering technical leadership and driving organization-wi
 - **Content**: 30+ technical articles establishing thought leadership
 
 **By Week 42 (Senior-Level Ready)**:
-- **Employment**: DevOps role secured ($140K-$200K range)
+- **Employment**: DevOps role secured
 - **Advanced Skills**: Incident response, compliance automation, container security
 - **Network**: 180+ professional connections with active job search support
 - **Content**: 42+ technical articles with business focus
@@ -562,7 +562,7 @@ This phase focuses on mastering technical leadership and driving organization-wi
 
 ## Top 1% Acceleration Track
 
-To reach the top 1% of DevOps compensation ($250K+), implement these parallel activities alongside your main technical learning:
+To reach the top 1% of DevOps compensation, implement these parallel activities alongside your main technical learning:
 
 ### Weekly Activities (3-4 hours/week)
 
