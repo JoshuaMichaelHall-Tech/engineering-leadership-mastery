@@ -11,7 +11,7 @@ This strategy provides a focused, high-ROI approach to building your professiona
 3. **Documentation of Journey**: Public sharing of your learning process creates opportunities
 4. **Authentic Value Creation**: Give generously through helpful content rather than self-promotion
 5. **Strategic Time Allocation**: Focus 80% of networking time on the 20% of activities that drive results
-6. **Systematic Tracking**: Use GitHub and LeadDelta to maintain organized relationship management
+6. **Systematic Tracking**: Use GitHub and SuiteCRM to maintain organized relationship management
 
 ## Target Audience Prioritization
 
@@ -50,9 +50,9 @@ This strategy provides a focused, high-ROI approach to building your professiona
 
 ## Network Management System
 
-### LeadDelta CRM Setup
+### SuiteCRM Setup
 
-LeadDelta is specifically designed as a LinkedIn CRM to organize and track your professional networking:
+SuiteCRM is specifically designed as a LinkedIn CRM to organize and track your professional networking:
 
 1. **Initial Setup**:
    - Install the browser extension for Chrome/Firefox
