@@ -1,6 +1,6 @@
-# Streamlined DevOps/SRE Career Roadmap: Path to $250K+
+# Streamlined DevOps/SRE Career Roadmap: Path to Top-Tier Compensation
 
-This roadmap optimizes your path to the top 1% in DevOps for financial services. It combines deep technical expertise with business impact skills and executive-level capabilities to reach premium compensation levels of $250K+ within 5-6 years.
+This roadmap optimizes your path to the top 1% in DevOps for financial services. It combines deep technical expertise with business impact skills and executive-level capabilities to reach premium compensation levels within 5-6 years.
 
 ## Key Strategic Optimizations
 
@@ -14,10 +14,10 @@ This roadmap optimizes your path to the top 1% in DevOps for financial services.
 
 ## Career Progression Framework
 
-- **Years 0-2**: Mid-Level DevOps Engineer ($120K-$160K)
-- **Years 2-4**: Senior DevOps Engineer ($160K-$200K)
-- **Years 4-6**: Principal/Staff DevOps Engineer ($200K-$250K+)
-- **Years 6+**: Engineering Manager/Director ($250K-$350K+)
+- **Years 0-2**: Mid-Level DevOps Engineer
+- **Years 2-4**: Senior DevOps Engineer
+- **Years 4-6**: Principal/Staff DevOps Engineer
+- **Years 6+**: Engineering Manager/Director
 
 ## Phase 1: Core AWS & IaC Foundation (Months 1-4)
 
@@ -416,7 +416,7 @@ This roadmap optimizes your path to the top 1% in DevOps for financial services.
 | Terraform Associate | Month 6 | Infrastructure as code mastery |
 | AWS DevOps Professional | Month 13-15 | Advanced AWS DevOps expertise |
 | CKA (Kubernetes Administrator) | Month 18-20 | Container orchestration mastery |
-| AWS Solutions Architect Professional | Month 24-30 | Premium certification for principal role ($220K+) |
+| AWS Solutions Architect Professional | Month 24-30 | Premium certification for principal role |
 | CKS (Kubernetes Security Specialist) | Month 30-36 | Advanced security specialization |
 | Strategic Leadership Certification | Year 4 | Business and leadership skills for top-tier roles |
 | Financial Services Risk/Compliance | Year 5 | Strategic positioning for leadership roles |
@@ -450,7 +450,7 @@ This roadmap optimizes your path to the top 1% in DevOps for financial services.
 - Technical articles published demonstrating expertise
 
 ### Phase 3 (Months 7-18)
-- Mid-level DevOps position secured ($110K-$150K)
+- Mid-level DevOps position secured
 - AWS DevOps Professional certification initiated
 - Business impact reporting established
 - Cross-functional collaboration skills developed
@@ -459,7 +459,7 @@ This roadmap optimizes your path to the top 1% in DevOps for financial services.
 - Mentoring 2+ junior engineers
 
 ### Phase 4 (Months 19-36)
-- Senior DevOps/Platform Engineer role ($140K-$200K)
+- Senior DevOps/Platform Engineer role
 - AWS DevOps Professional certification completed
 - AWS Solutions Architect Professional certification initiated
 - Leading multi-team technical initiatives
@@ -471,19 +471,19 @@ This roadmap optimizes your path to the top 1% in DevOps for financial services.
 - Advisory role or expert recognition
 
 ### Phase 5 (Years 4-6)
-- Principal/Staff Engineer role ($200K-$250K)
+- Principal/Staff Engineer role
 - AWS Solutions Architect Professional certification completed
 - Leading enterprise-wide technical initiatives
 - Creating technology strategy roadmaps
 - Mentoring senior engineers
-- Engineering Manager/Director path established ($250K-$350K+)
+- Engineering Manager/Director path established
 - $1M+ in documented value creation
 - Recognized industry expert in 1+ areas
 - Board or advisory positions
 
 ## Top 1% Acceleration Track
 
-To reach the top 1% of DevOps compensation ($250K+), implement this parallel track alongside your main technical learning:
+To reach the top 1% of DevOps compensation, implement this parallel track alongside your main technical learning:
 
 ### Weekly Activities (3-4 hours/week)
 
@@ -616,4 +616,4 @@ This enhanced 5-6 year roadmap optimizes your path to the top 1% in DevOps compe
 5. Developing executive-level communication and influence
 6. Creating quantifiable business impact documentation
 
-The key differentiator between average DevOps engineers and those achieving $250K+ compensation is the ability to connect technical excellence with strategic business value. This plan provides a structured approach to developing both technical depth and business acumen, positioning you for principal/staff engineering roles and beyond.
+The key differentiator between average DevOps engineers and those achieving top-tier compensation is the ability to connect technical excellence with strategic business value. This plan provides a structured approach to developing both technical depth and business acumen, positioning you for principal/staff engineering roles and beyond.

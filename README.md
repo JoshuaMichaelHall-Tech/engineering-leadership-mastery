@@ -1,6 +1,6 @@
 # DevOps/SRE Mastery for Financial Services
 
-A repository documenting my systematic **42-week sequential learning journey** to DevOps expertise, targeting $250K+ senior DevOps roles in financial services. This approach emphasizes deep mastery through focused, sequential skill acquisition rather than concurrent learning.
+A repository documenting my systematic **42-week sequential learning journey** to DevOps expertise, targeting senior-level DevOps roles in financial services. This approach emphasizes deep mastery through focused, sequential skill acquisition rather than concurrent learning.
 
 ## Sequential Learning Philosophy
 
