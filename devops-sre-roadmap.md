@@ -1,25 +1,31 @@
-# Streamlined DevOps/SRE Career Roadmap: Path to Top-Tier Compensation
+# Engineering Management Career Roadmap: Technical Foundation + Leadership Development
 
-This roadmap optimizes your path to the top 1% in DevOps for financial services. It combines deep technical expertise with business impact skills and executive-level capabilities to reach premium compensation levels within 5-6 years.
+This roadmap optimizes your path to Director-level engineering management roles in financial services targeting $350K-$500K+ compensation. It combines technical credibility building through AWS/Terraform expertise with systematic leadership development for engineering management success.
 
-## Key Strategic Optimizations
+## Engineering Management Strategic Focus
 
-1. **Strategic Specialization**: Focus on financial services DevOps with AWS as primary platform
-2. **Minimal Viable Learning**: Master essential core skills deeply before expanding
-3. **Project-Based Acceleration**: Learn while building portfolio projects
-4. **Certification Optimization**: Prioritize only the highest-value certifications
-5. **Business Value Focus**: Emphasize skills that deliver measurable financial impact
-6. **Executive Positioning**: Develop strategic skills for principal/staff engineer roles
-7. **Top-Tier Network**: Build relationships with industry leaders and executives
+1. **Technical Credibility Foundation**: AWS/Terraform expertise for engineering management credibility
+2. **Leadership Skills Development**: Management fundamentals alongside technical learning
+3. **Management-Oriented Projects**: Technical projects demonstrating team leadership thinking
+4. **Strategic Certification Path**: AWS/Terraform certifications for technical authority
+5. **Business Impact Measurement**: Document all work in terms of team and business value
+6. **Engineering Management Positioning**: Build relationships with current engineering managers
+7. **Management Content Strategy**: Thought leadership demonstrating readiness for leadership roles
 
-## Career Progression Framework
+## Engineering Management Progression Framework
 
-- **Years 0-2**: Mid-Level DevOps Engineer
-- **Years 2-4**: Senior DevOps Engineer
-- **Years 4-6**: Principal/Staff DevOps Engineer
-- **Years 6+**: Engineering Manager/Director
+- **Year 1**: Technical Foundation + Management Fundamentals → Team Lead Readiness
+- **Year 2**: Engineering Leadership Development → Engineering Manager Roles
+- **Years 3-4**: Advanced Management Skills → Senior Engineering Manager
+- **Years 5-6**: Strategic Leadership → Director of Engineering ($350K-$500K+)
 
-## Phase 1: Core AWS & IaC Foundation (Months 1-4)
+## Phase 1: Technical Foundation + Leadership Development (Months 1-6)
+
+**Management Track Integration**: Every technical learning activity includes leadership development components:
+- Study "The Manager's Path" alongside technical learning
+- Document all projects with team leadership and business impact considerations
+- Network with engineering managers and directors while building technical skills
+- Practice technical communication and decision-making for management contexts
 
 ### Month 1: AWS Core Infrastructure & Environment Setup
 
