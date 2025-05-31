@@ -1,8 +1,8 @@
-# DevOps Career Networking: Strategy & Philosophy
+# Engineering Management Networking: Building Leadership Relationships
 
 ## Executive Summary
 
-This strategy provides a focused, high-ROI approach to building your professional network as you transition to a mid-level DevOps/SRE role within 6-8 months. It prioritizes activities with the greatest impact while minimizing time investment through strategic networking and systematic relationship management.
+This strategy provides a focused, high-ROI approach to building your professional network for engineering management roles targeting Director-level positions at $350K-$500K+. It prioritizes building relationships with current engineering managers and directors while demonstrating technical credibility and leadership readiness.
 
 ## Core Philosophy: Strategic Minimalism
 
@@ -15,23 +15,23 @@ This strategy provides a focused, high-ROI approach to building your professiona
 
 ## Target Audience Prioritization
 
-**Priority Tier 1 (60% focus)**
-- Mid-level DevOps Engineers at financial institutions
-- DevOps/Platform Engineering team leads
-- Cloud engineers specializing in AWS/Terraform
-- Hiring managers at target companies
+**Priority Tier 1 (60% focus) - Engineering Leadership**
+- Engineering Managers at financial services companies
+- Directors of Engineering at fintech companies
+- VPs of Engineering at trading firms and investment banks
+- Engineering leaders at target companies (Jane Street, Hudson River Trading, Stripe, etc.)
 
-**Priority Tier 2 (30% focus)**
-- DevOps recruiters specializing in financial services
-- Technical community leaders in AWS/Kubernetes/Terraform
-- IT professionals in financial compliance/security
-- Engineering leaders at FinTech companies
+**Priority Tier 2 (30% focus) - Technical Leadership & Talent**
+- Staff/Principal Engineers transitioning to management
+- Technical recruiters specializing in engineering management roles
+- Engineering management consultants and coaches
+- Technical leaders at AWS/cloud-focused financial services companies
 
-**Priority Tier 3 (10% focus)**
-- Technical content creators and educators
-- Open source maintainers in relevant projects
-- Technical conference organizers
-- Technology architects in adjacent fields
+**Priority Tier 3 (10% focus) - Ecosystem & Content**
+- Engineering management content creators and thought leaders
+- Technical conference organizers focusing on leadership topics
+- Engineering management community leaders
+- Authors and speakers on engineering leadership topics
 
 ## Platform Strategy: The Minimum Effective Dose
 
@@ -50,19 +50,20 @@ This strategy provides a focused, high-ROI approach to building your professiona
 
 ## Network Management System
 
-### SuiteCRM Setup
+### Professional Networking Tracker Setup
 
-SuiteCRM is specifically designed as a LinkedIn CRM to organize and track your professional networking:
+The professional-networking-tracker system is specifically designed for engineering management relationship building:
 
 1. **Initial Setup**:
    - Install the browser extension for Chrome/Firefox
    - Connect your LinkedIn account
    - Import your existing LinkedIn connections
 
-2. **Network Organization**:
-   - Create custom tags based on your career strategy
-   - Set up tracking columns (last contacted, follow-up date, etc.)
-   - Develop custom workflows for your networking pipeline
+2. **Management Network Organization**:
+   - Create custom tags for engineering leadership levels (Manager, Senior Manager, Director, VP)
+   - Track team size, company tier, and management philosophy
+   - Set up workflows for mentorship and sponsorship relationship development
+   - Implement scoring system prioritizing engineering managers at target companies
 
 3. **Contact Organization**:
    - Create segments for different professional groups
