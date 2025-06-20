@@ -8,9 +8,9 @@ A comprehensive repository documenting the **24-week ultra-intensive journey** t
 - **AI Technical Track** (35 hours): AWS + ML services, Terraform + MLOps, Kubernetes for AI
 - **AI Leadership Integration** (15 hours): MLOps team management and AI transformation
 - **Daily Schedule**: 8.3 hours Mon-Sat with 15% AI/ML focus integrated throughout
-- **AI Platform Advantage**: Leveraging AI skills for 25% compensation premium
+- **AI Platform Advantage**: Leveraging AI skills for competitive positioning advantage
 
-**Target: AI-Enhanced DevOps Engineer (Month 6) → AI Platform Manager (Year 2) → Director of AI Engineering (Year 4)**
+**Target: AI-Enhanced DevOps Engineer → AI Platform Manager → Director of AI Engineering**
 
 ## Strategic Philosophy
 
@@ -37,8 +37,8 @@ This is a public technical repository focused on:
 ## Director-Level Career Development Framework
 
 ### Core Strategy Documents
-- **[Director Career Roadmap](./director-career-roadmap.md)**: 5-6 year progression to $350K-$500K+ roles
-- **[Financial Strategy & ROI](./director-financial-plan.md)**: Investment analysis and wealth building plan
+- **[Director Career Roadmap](./director-career-roadmap.md)**: Multi-year progression to executive-level engineering roles
+- **[Financial Strategy & ROI](./director-financial-plan.md)**: Career investment framework and strategic planning
 - **[Networking & Positioning](./director-networking-strategy.md)**: Executive relationship building strategy
 - **[Leadership Frameworks](./director-leadership-frameworks.md)**: Director-level competency development
 - **[Implementation Schedule](./director-implementation-schedule.md)**: Detailed monthly execution timeline
@@ -48,6 +48,7 @@ This is a public technical repository focused on:
 - **[Dual-Track Learning Plan](./career-learning-plan.md)**: Technical + Management development system
 - **[DevOps/SRE Roadmap](./devops-sre-roadmap.md)**: Comprehensive technical skill progression
 - **[Certification Path](./certification-path.md)**: Strategic certification sequence for credibility
+- **[Certification Maintenance Strategy](./certification-maintenance-strategy.md)**: Long-term certification portfolio lifecycle management
 
 ### Hands-On Implementation
 - **[Projects](./projects/)**: Real-world implementations demonstrating platform engineering excellence

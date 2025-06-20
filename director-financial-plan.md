@@ -1,53 +1,53 @@
-# Director-Level Financial Strategy & ROI Analysis
+# Director-Level Career Strategy & ROI Framework
 
-A comprehensive financial plan for achieving $350K-$500K+ Director-level compensation within 5-6 years, including investment analysis, geographic arbitrage, and wealth accumulation strategy.
+A comprehensive career progression framework for achieving Director-level compensation in engineering leadership, including investment analysis and strategic advancement planning.
 
-## Investment Summary
+## Investment Framework Overview
 
-### Total Investment Required: $117,059 (6 years)
-- **Learning & Development**: $23,400
-- **Certifications & Training**: $8,500  
-- **Equipment & Infrastructure**: $15,000
-- **Networking & Events**: $18,000
-- **Professional Services**: $36,000
-- **Emergency Fund Build**: $16,159
+### Investment Categories (Multi-year horizon)
+- **Learning & Development**: Professional growth and continuous education
+- **Certifications & Training**: Industry-recognized credentials and specialized training
+- **Equipment & Infrastructure**: Professional-grade development and demonstration environment
+- **Networking & Events**: Professional relationship building and industry presence
+- **Professional Services**: Executive coaching, career strategy, and professional branding
+- **Emergency Fund**: Financial stability during career transitions
 
-### Expected ROI: 1,578% over 6 years
-- **Break-even Point**: Month 14
-- **Net Present Value**: $1.77M (6 years at 7% discount rate)
-- **Internal Rate of Return**: 185% annually
+### ROI Methodology
+- **Break-even Analysis**: Investment recovery within 12-18 months
+- **Net Present Value**: Significant positive returns over career trajectory
+- **Internal Rate of Return**: Exceptional annual returns on professional development investment
 
 ## Career Progression & Compensation
 
-### Year 1: Mid-Level DevOps Engineer
-- **Base Salary**: $140K - $160K
-- **Total Compensation**: $150K (with benefits)
-- **Investment Required**: $28,059
-- **Net Income**: $95K (after taxes and investment)
+### Stage 1: Mid-Level DevOps Engineer
+- **Role Scope**: Individual contributor with team collaboration
+- **Compensation Range**: Market competitive for mid-level engineering roles
+- **Investment Focus**: Core technical skills and foundational certifications
+- **Career Capital**: Building technical credibility and domain expertise
 
-### Year 2: Senior DevOps Engineer + Team Lead
-- **Base Salary**: $160K - $190K  
-- **Total Compensation**: $175K
-- **Investment Required**: $18,000
-- **Net Income**: $120K
+### Stage 2: Senior DevOps Engineer + Team Lead
+- **Role Scope**: Technical leadership and mentoring responsibilities
+- **Compensation Range**: Senior individual contributor with leadership premium
+- **Investment Focus**: Advanced certifications and thought leadership
+- **Career Capital**: Technical authority and cross-functional influence
 
-### Year 3: DevOps Engineering Manager
-- **Base Salary**: $180K - $220K
-- **Total Compensation**: $200K
-- **Investment Required**: $18,000
-- **Net Income**: $140K
+### Stage 3: DevOps Engineering Manager
+- **Role Scope**: People management and technical strategy
+- **Compensation Range**: First-level management compensation
+- **Investment Focus**: Management training and business skills
+- **Career Capital**: Team building and organizational impact
 
-### Year 4: Senior Engineering Manager
-- **Base Salary**: $220K - $280K
-- **Total Compensation**: $250K
-- **Investment Required**: $18,000
-- **Net Income**: $180K
+### Stage 4: Senior Engineering Manager
+- **Role Scope**: Multiple team management and strategic initiatives
+- **Compensation Range**: Senior management compensation
+- **Investment Focus**: Executive development and strategic thinking
+- **Career Capital**: Organizational transformation and business alignment
 
-### Year 5: Director of Engineering
-- **Base Salary**: $280K - $400K
-- **Total Compensation**: $375K
-- **Investment Required**: $18,000
-- **Net Income**: $260K
+### Stage 5: Director of Engineering
+- **Role Scope**: Department leadership and executive influence
+- **Compensation Range**: Executive-level total compensation
+- **Investment Focus**: Executive leadership and industry positioning
+- **Career Capital**: Strategic vision and business transformation
 
 ### Year 6: Established Director
 - **Base Salary**: $350K - $500K+
