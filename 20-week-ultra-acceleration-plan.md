@@ -2,6 +2,12 @@
 
 This ultra-intensive plan leverages existing IT certification background and 5+ years management experience to achieve AI-Enhanced DevOps Engineer placement with accelerated progression to Director of AI Engineering roles.
 
+## Program Timeline and Schedule
+- **Program Start**: June 30, 2025
+- **Vacation Breaks**: Thanksgiving Wednesday-Sunday, Christmas Sunday-Sunday, July family vacation
+- **Family Communication**: Monthly progress updates and milestone celebrations
+- **Additional Family Time**: Regular 3-4 day breaks as needed
+
 ## Executive Summary & Ultra-Acceleration Strategy
 
 **Primary Objective**: Ultra-accelerated transition leveraging management experience + IT certification background to reach AI-Enhanced DevOps Engineer role through intensive 24-week AI-integrated skill development and strategic remote-first career targeting.
@@ -19,7 +25,8 @@ This ultra-intensive plan leverages existing IT certification background and 5+ 
 ### Time Allocation (50 hours/week)
 - **Technical Track**: 35 hours (70%)
 - **Management Integration**: 15 hours (30%)
-- **Daily Schedule**: 8.3 hours Monday-Saturday + Sunday complete rest
+- **Daily Schedule**: 8.3 hours Monday-Saturday + Sunday complete family rest
+- **Vacation Adjustments**: Reduced schedules during family vacation weeks with catch-up planning
 
 ### Weeks 1-6: AWS Solutions Architect + Terraform Double-Track
 

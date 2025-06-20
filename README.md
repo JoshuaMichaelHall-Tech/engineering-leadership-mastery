@@ -8,7 +8,13 @@ A comprehensive repository documenting the **24-week ultra-intensive journey** t
 - **AI Technical Track** (35 hours): AWS + ML services, Terraform + MLOps, Kubernetes for AI
 - **AI Leadership Integration** (15 hours): MLOps team management and AI transformation
 - **Daily Schedule**: 8.3 hours Mon-Sat with 15% AI/ML focus integrated throughout
+- **Family Balance**: Sunday complete family rest, vacation breaks maintained
 - **AI Platform Advantage**: Leveraging AI skills for competitive positioning advantage
+
+**Program Schedule**:
+- **Start Date**: June 30, 2025
+- **Vacation Breaks**: Thanksgiving Wednesday-Sunday, Christmas Sunday-Sunday, July family breaks
+- **Family Integration**: Monthly milestone celebrations and progress sharing
 
 **Target: AI-Enhanced DevOps Engineer → AI Platform Manager → Director of AI Engineering**
 
