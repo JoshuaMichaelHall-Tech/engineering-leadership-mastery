@@ -44,7 +44,7 @@
 
 ### Project Management Progression
 **Strategic Evolution Path**:
-- CAPM as foundation → PMP transition within 3 years
+- Direct PMP certification (skip CAPM - leveraging Project+ foundation)
 - PMP requires 60 Professional Development Units (PDUs) every 3 years for renewal
 - Focus on business leadership and strategic project management skills
 
@@ -54,7 +54,7 @@
 **Initial Certifications Due for First Renewal**:
 - AWS foundational certifications requiring CEC accumulation
 - Security+ requiring CEU accumulation
-- CAPM → PMP transition planning and execution
+- PMP renewal planning and PDU accumulation
 
 **Investment Framework**:
 - Time: 40 hours annually for continuing education activities
@@ -147,7 +147,7 @@
 - Establish systematic tracking system for all certification requirements
 - Build conference attendance and professional development routine
 - Begin thought leadership and content creation activities
-- Plan CAPM to PMP transition strategy
+- Plan PMP renewal strategy and PDU accumulation
 
 ### Long-term Strategic Positioning
 - Transition from technical depth certifications to leadership breadth
