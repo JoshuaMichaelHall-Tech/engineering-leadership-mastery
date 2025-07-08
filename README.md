@@ -1,212 +1,233 @@
-# Engineering Leadership Mastery
+# TAM Excellence Framework
 
-**Strategic Role**: Tier 2 - Technical & Executive Development  
+**Strategic Role**: Customer Success & Business Leadership Development  
 **Integration Level**: High  
-**Last Updated**: July 2025  
-**Version**: 5.0 (Aligned with 48-week sequential mastery plan)
+**Last Updated**: January 2025  
+**Version**: 6.0 (TAM-focused transformation)
 
 ## Quick Start
 
-Technical and leadership development resources supporting the 48-week sequential mastery journey to Platform Engineering executive roles. Focus on multiple production systems, executive education integration, and long-term wealth strategy.
+Framework for developing excellence as a Technical Account Manager, focusing on customer success, business communication, and strategic relationship management. Supports the TAM-to-Empire journey.
 
 ## Strategic Context
 
-This repository provides learning resources, project templates, and technical guidance for the 48-week sequential mastery plan. Emphasis on building multiple production systems, completing executive education programs, and establishing thought leadership through published work.
+This repository provides frameworks, templates, and best practices for excelling as a TAM and building the skills needed to eventually acquire and transform MSPs into cloud-first businesses.
 
 ## Documentation Index
-- [Core Documentation](docs/)
-- [Learning Resources](learning/)
-- [Project Portfolio](projects/)
-- [Certification Guides](certifications/)
+- [Customer Success Playbooks](customer-success/)
+- [Business Communication](business-communication/)
+- [Relationship Management](relationship-management/)
+- [Cloud Business Frameworks](cloud-frameworks/)
 
 ## Cross-Repository Links
-- [Master Strategy](../devops-career-strategy/README.md)
-- [Execution Tracker](../devops-career-tracker/README.md)
-- [Automation Hub](../automation-hub/README.md)
+- [Master TAM Strategy](../devops-career-strategy/TAM-TO-EMPIRE-MASTER-STRATEGY.md)
+- [Job Search Strategy](../devops-career-strategy/TAM-JOB-SEARCH-STRATEGY.md)
+- [MSP Network Tracker](../professional-networking-tracker/README.md)
 
 ## Success Metrics
-- **6+ Certifications**: Security+, CSM, PMP, AWS SAA, AWS ML, Terraform, CKA
-- **Executive Education**: Stanford, MIT, Wharton, Harvard programs completed
-- **Production Systems**: Network infrastructure, SuiteCRM, published book
-- **Strategic Positioning**: $200K start → $550K VP → $25-35M wealth path
-- **Timeline**: 38 weeks (July 14, 2025 - April 5, 2026)
 
-## Learning Strategy
+### TAM Excellence (Year 1)
+- **Customer Retention**: 95%+
+- **Upsell Rate**: 20%+
+- **NPS Score**: 70+
+- **Reference Customers**: 5+
+- **Cloud Migrations**: 10+
 
-### Phase 1: Quick Wins (Weeks 1-3)
-**Focus**: Rapid certification completion leveraging existing knowledge
+### Business Development (Year 2+)
+- **Consulting Pipeline**: $100K+
+- **Speaking Engagements**: 5+
+- **Published Articles**: 12+
+- **Industry Recognition**: Established
 
-#### CompTIA Security+ (Days 1-3)
-- Previous cert holder advantage
-- 16 hours intensive review
-- Focus on new SY0-701 objectives
+## TAM Core Competencies
 
-#### Certified Scrum Master (Week 2)
-- 2-day required workshop
-- Agile methodology for EM role
-- Team leadership frameworks
+### 1. Customer Success Management
+- Onboarding excellence
+- Quarterly business reviews
+- Success planning
+- Risk mitigation
+- Growth identification
 
-#### PMP Bootcamp (Week 3)
-- Leverage Project+ foundation
-- 5-day intensive bootcamp
-- Skip CAPM, go direct to PMP
+### 2. Technical Translation
+- Architecture reviews
+- ROI calculations
+- Executive presentations
+- Technical deep dives
+- Solution design
 
-### Phase 2: Technical Authority (Weeks 4-16)
-**Focus**: Cloud and container expertise for modern platforms
-
-#### AWS Solutions Architect (Weeks 4-10)
-- Cloud+ foundation advantage
-- 80 hours focused study
-- Infrastructure portfolio project
-
-#### AWS ML Specialty (Weeks 11-14)
-- Build on AWS SAA knowledge
-- 90 hours ML/AI focus
-- ML portfolio project
-
-#### Kubernetes CKA (Weeks 15-16)
-- Mandatory for platform roles
-- 48 hours intensive prep
-- Container portfolio project
-
-### Phase 3: Executive Development (Weeks 17-34)
-**Focus**: Business acumen and leadership preparation
-
-#### Wharton Fintech (Jan-Feb 2026)
-- Executive credential
-- Business language fluency
-- Network with executives
-
-#### Interview Preparation
-- System design practice
-- Behavioral scenarios
-- Salary negotiation
-
-## Portfolio Projects
-
-### 1. Enterprise Network Infrastructure (Pre-Week 1)
-**Status**: ✅ COMPLETED  
-**Technologies**: WatchGuard, UniFi, Multi-WAN  
-**Business Value**: 40% cost reduction, enterprise security  
-**Interview Topics**: Infrastructure design, cost optimization
-
-### 2. Cloud Migration Platform (Weeks 4-10)
-**Technologies**: AWS, Terraform, Python  
-**Deliverables**:
-- Multi-account architecture
-- IaC templates
-- Cost optimization
-- Security automation
-
-### 3. ML Operations Pipeline (Weeks 11-14)
-**Technologies**: AWS ML, SageMaker, Python  
-**Deliverables**:
-- Model deployment pipeline
-- A/B testing framework
-- Performance monitoring
-- Cost management
-
-### 4. Container Platform (Weeks 15-16)
-**Technologies**: Kubernetes, Docker, GitOps  
-**Deliverables**:
-- Multi-cluster setup
-- Security policies
-- CI/CD integration
-- Monitoring stack
-
-## Leadership Development
-
-### Management Frameworks
-- **Situational Leadership**: Adapting style to team needs
-- **OKRs**: Objective setting and measurement
-- **1:1s**: Effective team member development
-- **Hiring**: Building high-performing teams
-
-### Communication Skills
-- **Executive Presentations**: Conveying technical concepts
-- **Stakeholder Management**: Managing up and across
-- **Conflict Resolution**: Team dynamics
-- **Written Communication**: Documentation and proposals
-
-### Business Acumen
-- **Budget Management**: P&L responsibility
-- **ROI Analysis**: Justifying technical investments
-- **Vendor Management**: Negotiation and partnerships
-- **Strategic Planning**: Roadmap development
-
-## Interview Preparation
-
-### System Design
-- Distributed systems architecture
-- Scalability patterns
-- Reliability engineering
-- Cost optimization strategies
-
-### Behavioral Questions
-- Leadership scenarios
+### 3. Relationship Building
+- Stakeholder mapping
+- Trust development
 - Conflict resolution
-- Project failures and learnings
-- Team building experiences
+- Team collaboration
+- Executive engagement
 
-### Technical Depth
-- Cloud architecture (AWS focus)
-- Container orchestration
-- CI/CD pipelines
-- Security best practices
+### 4. Business Acumen
+- Financial analysis
+- Contract understanding
+- Negotiation skills
+- Industry knowledge
+- Competitive awareness
 
-## Study Resources
+## Learning Path
+
+### Month 1-3: TAM Fundamentals
+- Customer success methodologies
+- Cloud architecture patterns
+- Business communication
+- Stakeholder management
+- AWS SA Associate certification
+
+### Month 4-6: Advanced Skills
+- Complex problem solving
+- Strategic account planning
+- Presentation mastery
+- Negotiation techniques
+- Industry specialization
+
+### Month 7-12: Leadership Development
+- Team collaboration
+- Mentoring skills
+- Process improvement
+- Change management
+- Executive presence
+
+## Framework Library
+
+### Customer Success Templates
+- [Onboarding Checklist](templates/onboarding-checklist.md)
+- [QBR Template](templates/qbr-template.md)
+- [Success Plan](templates/success-plan.md)
+- [Escalation Process](templates/escalation-process.md)
+- [Health Score Card](templates/health-scorecard.md)
+
+### Business Communication
+- [Executive Summary Template](templates/executive-summary.md)
+- [ROI Calculator](templates/roi-calculator.md)
+- [Business Case Template](templates/business-case.md)
+- [Stakeholder Map](templates/stakeholder-map.md)
+- [Meeting Agendas](templates/meeting-agendas.md)
+
+### Technical Resources
+- [Architecture Review Guide](guides/architecture-review.md)
+- [Security Assessment](guides/security-assessment.md)
+- [Cost Optimization](guides/cost-optimization.md)
+- [Migration Planning](guides/migration-planning.md)
+- [Performance Analysis](guides/performance-analysis.md)
+
+## Daily TAM Excellence Routine
+
+### Morning (30 min)
+- Review customer health scores
+- Check escalations/risks
+- Plan daily priorities
+- Prepare for meetings
+
+### Throughout Day
+- Customer calls/meetings
+- Technical deep dives
+- Documentation updates
+- Internal collaboration
+
+### Evening (30 min)
+- Update CRM/notes
+- Follow-up emails
+- Next day planning
+- Learning/development
+
+## Weekly TAM Activities
+
+### Monday: Planning
+- Review weekly customer touchpoints
+- Update success plans
+- Schedule strategic meetings
+- Set weekly goals
+
+### Tuesday-Thursday: Execution
+- Customer meetings
+- Technical reviews
+- Problem solving
+- Relationship building
+
+### Friday: Wrap-up
+- Weekly reports
+- CRM updates
+- Process improvements
+- Professional development
+
+## MSP Transformation Skills
+
+### Understanding MSP Challenges
+- Recurring revenue models
+- Talent acquisition
+- Vendor management
+- Operational efficiency
+- Growth strategies
+
+### Cloud Transformation Expertise
+- Migration strategies
+- Cost optimization
+- Security frameworks
+- Compliance requirements
+- Performance optimization
+
+### Business Model Evolution
+- Service packaging
+- Pricing strategies
+- Contract structures
+- Value propositions
+- Market positioning
+
+## Career Progression Path
+
+### Year 1: TAM Excellence
+- Master fundamentals
+- Build customer wins
+- Establish reputation
+- Network building
+
+### Year 2-3: Senior TAM
+- Strategic accounts
+- Mentoring others
+- Industry speaking
+- Consulting launch
+
+### Year 4-5: Leadership
+- Team management
+- P&L responsibility
+- Strategic planning
+- Acquisition prep
+
+### Year 5+: Empire Building
+- MSP acquisitions
+- Portfolio management
+- Strategic growth
+- Exit planning
+
+## Resource Library
 
 ### Books
-- "The Manager's Path" - Camille Fournier
-- "Staff Engineer" - Will Larson
-- "AWS Certified Solutions Architect Study Guide"
-- "Kubernetes Up & Running"
+- "Customer Success" by Mehta/Steinman
+- "The Trusted Advisor" by Maister
+- "Crossing the Chasm" by Moore
+- "The Challenger Sale" by Dixon
+- "Never Split the Difference" by Voss
 
-### Online Courses
-- A Cloud Guru - AWS certifications
-- Linux Academy - Kubernetes
-- Pluralsight - Leadership skills
-- Coursera - Wharton content
+### Certifications
+- AWS Solutions Architect Associate (Priority)
+- Customer Success Manager (CSM)
+- ITIL Foundation
+- Project Management (CAPM)
 
 ### Communities
-- r/ExperiencedDevs
-- MLOps Community
-- AWS Community Builders
-- Local tech meetups
-
-## Weekly Schedule Integration
-
-### Study Time Allocation (11-15 hours/week)
-- **Morning**: 2 hours before work (6-8am)
-- **Lunch**: 30 minutes practice questions
-- **Evening**: 1 hour after family time
-- **Saturday**: 4-5 hours deep work
-
-### Certification Timeline
-- Week 1: Security+ completion
-- Week 2: CSM workshop
-- Week 3: PMP bootcamp
-- Weeks 4-10: AWS SAA
-- Weeks 11-14: AWS ML
-- Weeks 15-16: Kubernetes CKA
-
-## Success Framework
-
-### Monthly Milestones
-- **July**: 3 quick certifications
-- **August-Sept**: AWS SAA mastery
-- **October**: AWS ML + Kubernetes
-- **Nov-Mar**: Wharton + job search
-
-### Quality Gates
-- Practice exam scores 85%+
-- Portfolio projects deployable
-- Mock interviews passed
-- References secured
+- Customer Success Association
+- Cloud Success Network
+- TAM LinkedIn Groups
+- Local meetups
 
 ---
 
-**Version**: 3.0  
-**Timeline**: 38-week certification journey  
-**Goal**: $275K+ Engineering Manager role by April 2026  
-**Focus**: Practical skills and demonstrable expertise
+**Version**: 6.0  
+**Focus**: TAM excellence and business leadership  
+**Timeline**: Continuous development  
+**Goal**: Excel as TAM → Build cloud empire
